@@ -1,4 +1,4 @@
-# LIBFT
+# :sparkles: LIBFT
 
 ## Implementation of some of the Standard C Library functions
 
